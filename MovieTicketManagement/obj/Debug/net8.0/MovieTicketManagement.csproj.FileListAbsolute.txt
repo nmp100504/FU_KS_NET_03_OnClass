@@ -1,0 +1,14 @@
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\obj\Debug\net8.0\MovieTicketManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\obj\Debug\net8.0\MovieTicketManagement.AssemblyInfoInputs.cache
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\obj\Debug\net8.0\MovieTicketManagement.AssemblyInfo.cs
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\obj\Debug\net8.0\MovieTicketManagement.csproj.CoreCompileInputs.cache
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\bin\Debug\net8.0\MovieTicketManagement.exe
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\bin\Debug\net8.0\MovieTicketManagement.deps.json
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\bin\Debug\net8.0\MovieTicketManagement.runtimeconfig.json
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\bin\Debug\net8.0\MovieTicketManagement.dll
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\bin\Debug\net8.0\MovieTicketManagement.pdb
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\obj\Debug\net8.0\MovieTicketManagement.dll
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\obj\Debug\net8.0\refint\MovieTicketManagement.dll
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\obj\Debug\net8.0\MovieTicketManagement.pdb
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\obj\Debug\net8.0\MovieTicketManagement.genruntimeconfig.cache
+D:\MAJOR_SEM6_KS\NETCore\10_18_24_PRJ\MovieTicketManagement\obj\Debug\net8.0\ref\MovieTicketManagement.dll
